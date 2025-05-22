@@ -184,10 +184,11 @@ nav{
         font-family: 'overpass';
         font-size: 1.25em;
     }
-    .team-profile:hover{
+    
+ }
+ .team-profile:hover{
         transform: scale(1.03);
     }
- }
  .first-row{
     display: flex;
     gap: 5em;
