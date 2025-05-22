@@ -118,7 +118,7 @@ nav{
 }
 .activities{
     border: 1px solid transparent;
-    /* width: 12em; */
+    width: 25em;
     border-radius: 2em;
     background-color: rgb(218, 205, 157);
     box-shadow: 4px 4px 5px 4px rgba(0.2, 0, 0.4, 0.3);
