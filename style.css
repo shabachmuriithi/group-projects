@@ -126,6 +126,7 @@ nav{
     align-items: center;
     margin-bottom: 5em;
     font-family: 'kurale';
+    margin-left: 5em;
 
     h3{
         text-align: center;
@@ -152,6 +153,7 @@ nav{
     /* margin-top: 3em; */
     text-align: center;
     font-size: 2.5em;
+    font-family: 'nunito';
 }
 .activities-we-engage{
     display: flex;
@@ -185,12 +187,14 @@ nav{
  .first-row{
     display: flex;
     gap: 10em;
-    margin: 6em;
+    margin-left:16em;
+    margin-bottom: 5em;
+    
  }
  .second-row{
     display: flex;
     gap: 25em;
-    margin-left: 15em;
+    margin-left: 16em;
  }
  #name{
     font-weight: bold;
